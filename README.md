@@ -1,4 +1,4 @@
-# WawaKultura 
+# Wawa Aru
 <span><b>Tema:</b></span> Raízes Andinas (Bolivia). <img src="https://cdn-icons-png.freepik.com/512/3416/3416732.png" style="width: 1px; height: 1px;" alt="img-desc"> 
 
 A criação desse site se baseia na experiencia de se conectar com a cultura boliviana, criando um espaço acolhedor onde as raizes bolivianas se entrelaçam com historias e experiencias de antigas e novas gerações. O nome do blog vem do Aymara, pensado nas raízes Andinas que se conectam a cultura, o nome é composto pela palavra 'Wawa' que significa 'criança' ou 'filho(a)', o que simboliza a esperança, a continuidade de uma linhagem e uma rica herança cultural que merece ser preservada e celebrada;<br><br>
