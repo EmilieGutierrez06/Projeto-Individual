@@ -1,5 +1,5 @@
-# Wawa Aru
+# Todo es Wawa
 <span><b>Tema:</b></span> Raízes Andinas (Bolivia). <img src="https://cdn-icons-png.freepik.com/512/3416/3416732.png" style="width: 1px; height: 1px;" alt="img-desc"> 
 
 A criação desse site se baseia na experiencia de se conectar com a cultura boliviana, criando um espaço acolhedor onde as raizes bolivianas se entrelaçam com historias e experiencias de antigas e novas gerações. O nome do blog vem do Aymara, pensado nas raízes Andinas que se conectam a cultura, o nome é composto pela palavra 'Wawa' que significa 'criança' ou 'filho(a)', o que simboliza a esperança, a continuidade de uma linhagem e uma rica herança cultural que merece ser preservada e celebrada;<br><br>
-Nós da <b>WawaAru</b>, acreditamos que cada historia e experiencia é fundamental para o nosso desenvolvimento e autoconhecimento por meio de nossos familiares. Esse site é um convite para Imigrantes nascidos na Bolivia, filhos de imigrantes e publico em geral que tenha o interesse de se aventurar e explorar essa cultura rica presente em um país multicultural.
+Nós da <b>Todo es Wawa</b>, acreditamos que cada historia e experiencia é fundamental para o nosso desenvolvimento e autoconhecimento por meio de nossos familiares. Esse site é um convite para Imigrantes nascidos na Bolivia, filhos de imigrantes e publico em geral que tenha o interesse de se aventurar e explorar essa cultura rica presente em um país multicultural.
